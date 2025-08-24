@@ -4,4 +4,8 @@ baseurl: ""
 url: "https://sparkqkr.github.io"
 markdown: kramdown
 theme: null
-    
+
+collections:
+  papers:
+    output: true
+    permalink: /papers/:name/
