@@ -9,3 +9,10 @@ collections:
   papers:
     output: true
     permalink: /papers/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: papers
+    values:
+      layout: paper   # use the paper layout we’ll create next
