@@ -4,7 +4,7 @@ authors: "Sung Hee Park, Ruiwen Zhou, Xin Zhang, Liang Li, Lei Liu"
 venue: "Stat (Wiley) — Original Article"
 year: 2024
 links:
-  pdf: /assets/papers/tlm/TLM_STAT.pdf
+  pdf: /assets/TLM_STAT.pdf
   doi: https://onlinelibrary.wiley.com/doi/10.1002/sta4.70014
   code: https://github.com/sparkqkr/TensorCoxReg
 abstract: >
